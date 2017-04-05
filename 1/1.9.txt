@@ -1,0 +1,31 @@
+﻿1. Anwendungsfeld
+Versetzung in der Schule bis zum Abitur.
+
+Zustände: 	1. Klasse, 2. Klasse ... 12. Klasse
+Übergange: 	Immer bei einer Klassenstufe zur nächsten einen Notendurchschnitt von 4,0 oder Besser. Falls unter 4,0
+		muss Klasse/Zustand wiederholt werden.
+Alphabet:	6,0; 5,9 ... 1,0
+
+2. Anwendungsfeld
+Qualifizierung zum DFB-Cup (vereinfacht).
+
+Zustände: 	1. Bundesliga, 2. Bundesliga, 3. Bundesliga, qualifiziert für DFB-Cup, nicht qualifiziert für DFB-Cup
+Übergange: 	Die Plätze 1 bis 4 der drei Bundesligen sind qualifiziert den DFB-Cup
+Alphabet:	1, 2 ... 18
+
+3. Anwendungsfeld
+Mitschreiben einer Klausur.
+
+Zustände: 	Matrikuliert, Vorlesung besucht, PVL erhalten, im StiSys angemeldet, Klausur, keine Klausur
+Übergange: 	Nur wenn man matrikuliert ist, darf man die Vorlesung besuchen, PVL kann man erhalten auch ohne die Klausur
+		besucht zu haben, nur wenn man die PVL hat darf man sich im StiSys anmelden und nur mit der StiSys-Anmeldung 
+		darf man die Klausur schreiben.
+Alphabet:	JA, NEIN
+
+4. Anwendungsfeld
+Bei "Wer wird Millionär" 1.000.000€ gewinnen (vereinfacht.
+
+Zustände: 	Frage 1, Frage 2 ... Frage 15, 1.000.000€, 0€
+Übergange: 	Wenn man die Frage mit der richtigen Antwort beantwortet gelangt man zur nächsten. Beantwortet man falsch
+		bekommt man 0€. Beantwortet man die 15. Frage richtig erhält man eine 1.000.000€.
+Alphabet:	A, B, C, D
