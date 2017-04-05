@@ -30,3 +30,10 @@ Zustände: 	Frage 1, Frage 2 ... Frage 15, 1.000.000€, 0€
 Übergange: 	Wenn man die Frage mit der richtigen Antwort beantwortet gelangt man zur nächsten. Beantwortet man falsch
 		bekommt man 0€. Beantwortet man die 15. Frage richtig erhält man eine 1.000.000€.
 Alphabet:	A, B, C, D
+
+5. Anwendungsfeld
+Römische Zahlenbildung bis 5 (vereinfacht).
+
+Zustände: 	0, 1, 2, 3, 4, 5
+Wörter:		leeres Element, I, II, III, IV, V	
+Alphabet:	I, V
