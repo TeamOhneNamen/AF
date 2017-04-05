@@ -7,10 +7,11 @@ Zustände: 	1. Klasse, 2. Klasse ... 12. Klasse
 Alphabet:	6,0; 5,9 ... 1,0
 
 2. Anwendungsfeld
-Qualifizierung zum DFB-Cup (vereinfacht).
+Deutscher Fussballmeister werden (vereinfacht).
 
-Zustände: 	1. Bundesliga, 2. Bundesliga, 3. Bundesliga, qualifiziert für DFB-Cup, nicht qualifiziert für DFB-Cup
-Übergange: 	Die Plätze 1 bis 4 der drei Bundesligen sind qualifiziert den DFB-Cup
+Zustände: 	1. Bundesliga, 2. Bundesliga, 3. Bundesliga, deutscher Meister
+Übergange: 	Der erste Platz der Liga steigt eine Liga auf und wird wenn er 1. in der 1. Bundesliga wird, ist er 
+		deutscher Meister
 Alphabet:	1, 2 ... 18
 
 3. Anwendungsfeld
@@ -23,7 +24,7 @@ Zustände: 	Matrikuliert, Vorlesung besucht, PVL erhalten, im StiSys angemeldet,
 Alphabet:	JA, NEIN
 
 4. Anwendungsfeld
-Bei "Wer wird Millionär" 1.000.000€ gewinnen (vereinfacht.
+Bei "Wer wird Millionär" 1.000.000€ gewinnen (vereinfacht).
 
 Zustände: 	Frage 1, Frage 2 ... Frage 15, 1.000.000€, 0€
 Übergange: 	Wenn man die Frage mit der richtigen Antwort beantwortet gelangt man zur nächsten. Beantwortet man falsch
