@@ -1,0 +1,3 @@
+letter = [a-zA-Z0-9, com, de, net, @, .]
+
+(a-zA-Z0-9)^+(.(a-zA-Z0-9)^+)* @ (a-zA-Z0-9)^+(.(a-zA-Z0-9)^+)^{1,3}(com,de,org,...)
