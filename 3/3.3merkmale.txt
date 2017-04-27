@@ -1,0 +1,10 @@
+Merkmale der Sprache: Es werden immer Pärchen aus 0en und 1en ausgewertet. Die Optionen sind:
+Input 00 Übertrag 0 = Ergebnis 0, Übertrag 0
+Input 01 Übertrag 0 = Ergebnis 1, Übertrag 0
+Input 10 Übertrag 0 = Ergebnis 1, Übertrag 0
+Input 11 Übertrag 0 = Ergebnis 0, Übertrag 1
+
+Input 00 Übertrag 1 = Ergebnis 1, Übertrag 0
+Input 01 Übertrag 1 = Ergebnis 0, Übertrag 1
+Input 10 Übertrag 1 = Ergebnis 0, Übertrag 1
+Input 11 Übertrag 1 = Ergebnis 1, Übertrag 0
