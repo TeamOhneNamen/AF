@@ -10,7 +10,7 @@
         <READ value="[(0-9)]+[(0-9)]*\.[(0-9)]+[(0-9)]*" token="double" color="#E1FFFF"/>
         <READ value="[(0-9)]+[(0-9)]*" token="int" color="#E1FFFF"/>
         <READ value="[(0-9)]+[(0-9)]*\.[(0-9)]+[(0-9)]*F" token="float" color="#E1FFFF"/>
-        <READ value=" " token="Leertaste" color="#E1FFFF"/>
+        <READ value="( )" token="Leertaste" color="#E1FFFF"/>
     </SCANNER>
     <GLOBALCODE>
         
