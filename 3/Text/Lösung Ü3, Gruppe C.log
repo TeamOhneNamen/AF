@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.2.22)  2 MAY 2017 08:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.2.22)  2 MAY 2017 11:11
 entering extended mode
 **"./Lösung Ü3, Gruppe C.tex"
 ("Lösung Ü3, Gruppe C.tex"
@@ -378,7 +378,14 @@ Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 Package: underscore 2006/09/13
 LaTeX Info: Redefining \_ on input line 42.
 )
-No file "Lösung Ü3, Gruppe C".aux.
+("Lösung Ü3, Gruppe C.aux"
+
+LaTeX Warning: Label `overflow' multiply defined.
+
+
+LaTeX Warning: Label `overflow' multiply defined.
+
+)
 \openout1 = `"Lösung Ü3, Gruppe C.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
@@ -393,7 +400,7 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
 LaTeX Font Info:    ... okay on input line 6.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
 LaTeX Font Info:    ... okay on input line 6.
-("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+ ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count88
 \scratchdimen=\dimen105
@@ -475,7 +482,7 @@ Overfull \hbox (122.1496pt too wide) in paragraph at lines 23--24
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <./32moore.jpg>]
 Overfull \hbox (5.03912pt too wide) in paragraph at lines 30--35
-\T1/cmr/m/n/12 �ber-trag aus-gew-ertet. Es wird von links nach rechts gele-sen.
+\T1/cmr/m/n/12 �ber-trag aus-gew-ertet. Es wird von rechts nach links gele-sen.
 Die M�glichkeiten
  []
 
@@ -489,16 +496,26 @@ Underfull \hbox (badness 10000) in paragraph at lines 36--40
 
  []
 
-[2 <./32mealy.jpg>] ("Lösung Ü3, Gruppe C.aux")
+<33moore.jpg, id=10, 656.4525pt x 548.0475pt>
+File: 33moore.jpg Graphic file (type jpg)
+ <use 33moore.jpg>
+Package pdftex.def Info: 33moore.jpg used on input line 43.
+(pdftex.def)             Requested size: 512.1496pt x 427.57568pt.
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+Overfull \hbox (122.1496pt too wide) in paragraph at lines 43--44
+ [][] 
+ []
+
+[2 <./32mealy.jpg>] [3 <./33moore.jpg>] ("Lösung Ü3, Gruppe C.aux")
+
+LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 2003 strings out of 493333
- 25355 string characters out of 3139188
- 82174 words of memory out of 3000000
- 5525 multiletter control sequences out of 15000+200000
+ 2010 strings out of 493333
+ 25479 string characters out of 3139188
+ 82221 words of memory out of 3000000
+ 5529 multiletter control sequences out of 15000+200000
  7793 words of font info for 20 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  39i,5n,25p,335b,224s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -506,9 +523,9 @@ Here is how much of TeX's memory you used:
 0\ecrm1200.pk> <C:\Users\Thorben\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknap
 pen\ec\dpi600\ecbx1728.pk> <C:\Users\Thorben\AppData\Local\MiKTeX\2.9\fonts\pk\
 ljfour\jknappen\ec\dpi600\ecbx2488.pk>
-Output written on "Lösung Ü3, Gruppe C.pdf" (2 pages, 117617 bytes).
+Output written on "Lösung Ü3, Gruppe C.pdf" (3 pages, 147199 bytes).
 PDF statistics:
- 89 PDF objects out of 1000 (max. 8388607)
+ 94 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
